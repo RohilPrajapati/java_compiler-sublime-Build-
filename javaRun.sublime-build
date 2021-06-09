@@ -1,3 +1,4 @@
+// tutorial and guide on how to use in https://github.com/RohilPrajapati/java_compiler
 {
     "cmd":["javac","$file_name","&&","start","cmd","/c","java ${file_base_name} & echo. & pause"],
     "file_regex": "^\\s*File \"(...*?)\", line ([0-9]*)",
