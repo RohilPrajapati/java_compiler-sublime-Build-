@@ -17,15 +17,24 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 
 - download this [repository](https://github.com/RohilPrajapati/java_compiler)
 - copy the javaRun.sublime-build from downloaded repository
-- click on Preferences tab in menu in sublime text 3
-- click Browse packages ..
+- click on Preferences tab in menu in sublime text 3<br>
+    <img src="image(ss)/preferences.PNG">
+- click Browse packages ..<br>
+    <img src="image(ss)/browsepackage.png">
+- after click that this interface will apperear:<br>
+    <img src="image(ss)/browsepackageafter.png">
+- click User folder
 - paste the javaRun.sublime-build in that directory
+ <img src="image(ss)/insideuser.PNG">
 
 ## How to use javaRun.sublime-build
 
 - open file with .java extension
 - click on Tools tab of menu
-- click on build system
-- choose the javaRun.sublime-build
+- click on build system <br>
+    <img src="image(ss)/buildsystem.png">
+
+- choose the javaRun.sublime-build <br>
+    <img src="image(ss)/javaRun.png">
 - use ctrl+b to compile and run the program
 
