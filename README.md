@@ -12,7 +12,6 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 ### Tutorial on how to install and set path of java
 [tutorial link](https://youtu.be/IJ-PJbvJBGs)
 <br><br>
-<<<<<<< HEAD
 
 ## How to setup JavaRun.sublime-build
 
@@ -23,7 +22,7 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 - click Browse packages ..<br>
     <img src="image(ss)/browsepackage.png">
 - after click that this interface will apperear:<br>
-    <img src="image(ss)/browsepackageafter.png">
+    <img src="image(ss)/browsepackageafter.PNG">
 - click User folder
 - paste the javaRun.sublime-build in that directory
  <img src="image(ss)/insideuser.PNG">
@@ -33,9 +32,8 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 - open file with .java extension
 - click on Tools tab of menu
 - click on build system <br>
-    <img src="image(ss)/buildsystem.png">
-
+    <img src="image(ss)/buildsystem.PNG">
 - choose the javaRun.sublime-build <br>
-    <img src="image(ss)/javaRun.png">
+    <img src="image(ss)/javaRun.PNG">
 - use ctrl+b to compile and run the program
 
