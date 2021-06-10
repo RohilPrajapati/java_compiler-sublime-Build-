@@ -16,7 +16,8 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 
 ## How to setup JavaRun.sublime-build
 
-- download this [repository](https://github.com/RohilPrajapati/java_compiler)
+- download this [zip file](https://github.com/RohilPrajapati/java_compiler/archive/refs/heads/main.zip)
+- extract zip file
 - copy the javaRun.sublime-build from downloaded repository
 - click on Preferences tab in menu in sublime text 3<br>
     <img src="image(ss)/preferences.PNG">
