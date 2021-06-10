@@ -12,7 +12,7 @@ This is the sublime build use to compile the java in windows pc. This sublime bu
 ### Tutorial on how to install and set path of java
 [tutorial link](https://youtu.be/IJ-PJbvJBGs)
 <br><br>
-## How to setup JavaRun.sublime-biuld
+## How to setup JavaRun.sublime-build
 
 - download the javaRun.sublime-build
 - copy the javaRun.sublime-build
