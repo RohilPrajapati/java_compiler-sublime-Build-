@@ -4,7 +4,7 @@
 
 This is the sublime build use to compile the java in windows pc. This sublime build is made for sublime text 3 for compiling the java file in the sublime.
 
-## Pre-requrement:
+## Pre-requirements:
 
 - java developement kit : [click here!](https://www.oracle.com/java/technologies/javase-downloads.html)<br>
 - set path variable of installed java<br>
