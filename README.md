@@ -1,4 +1,4 @@
-# java_compiler for sublime
+# java_compiler(sublime-build) for sublime
 
 ## Introduction
 
